@@ -30,4 +30,4 @@ Git
 
 Insomnia (ou qualquer outra ferramenta para testes de requisições REST)
 
-
+![Print Projeto Cubos Bank](https://github.com/Ramos-jft/API-Rest-Cubos-Bank/assets/156725720/e8518c18-9003-48fe-8f71-060d221e8ba2)
